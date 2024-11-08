@@ -4,3 +4,5 @@ View the Policy
 https://www.tctchome.com/page/cell-phone-policy
 Jri Radio Finder
 https://jri-creator.github.io/radio_finder/ {window, 500px, 500px}
+Coder's Corner
+https://jri-creator.github.io/teach/
