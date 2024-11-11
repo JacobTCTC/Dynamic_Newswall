@@ -1,5 +1,6 @@
 blue
 red
 yellow
+yellow
 blue
 blue
