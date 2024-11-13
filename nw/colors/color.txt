@@ -1,6 +1,6 @@
 blue
 red
 pale-yellow
-pale-yellow
+yellow
 blue
 blue
