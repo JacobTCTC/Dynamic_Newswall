@@ -4,3 +4,4 @@ pale-yellow
 yellow
 blue
 blue
+pale-blue

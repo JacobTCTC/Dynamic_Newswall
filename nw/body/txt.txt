@@ -4,3 +4,4 @@ JacobTCTC Will try to place any Important Announcements from TCTC in this Newswa
 Badger Students release at 12:30 on November 15th.
 Want some tunes? I launched some radio stations for people to check out!
 For the HTML coders who want to code more than the regular student, here are some coding pieces in the Coder's Corner.
+All Open Source means that you could go to my GitHub right now and copy my site without a fuss!
