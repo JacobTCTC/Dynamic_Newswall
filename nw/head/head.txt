@@ -5,3 +5,4 @@ Early Dismissal
 Want some tunes?
 Want some more code?
 All Open Source
+VSCode Supported
