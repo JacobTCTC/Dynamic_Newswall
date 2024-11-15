@@ -1,8 +1,8 @@
 blue
 red
 pale-yellow
-pale-yellow
 orange
+pale-yellow
 blue
 blue
 pale-blue
