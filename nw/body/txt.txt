@@ -2,6 +2,8 @@ Welcome to JacobTCTC's Home Page! I'm glad you have seen my progress as a websit
 Off and Away is the Ohio Law! Your phones MUST be Off And Away at TCTC, excluding your lunchtime. Using your phone will get you in trouble.
 JacobTCTC Will try to place any Important Announcements from TCTC in this Newswall.
 Badger Students release at 12:30 on November 15th.
+Liberty Students release at 11:45 on November 25th.
 Want some tunes? I launched some radio stations for people to check out!
 For the HTML coders who want to code more than the regular student, here are some coding pieces in the Coder's Corner.
 All Open Source means that you could go to my GitHub right now and copy my site without a fuss!
+VSCode Supported, to allow faster Newswall changes (and less fuss!)

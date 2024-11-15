@@ -5,46 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Newswall</title>
   <link rel="stylesheet" href="./w3.css">
-  <!--<style>
-    /* Newswall styling */
-    #newswall {
-      position: relative;
-      width: 100%;
-      padding: 20px;
-      background-color: #f1f1f1;
-      border: 2px solid black;
-    }
-    /* Header styling */
-    .slide-header {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      font-size: 1.5rem;
-      font-weight: bold;
-    }
-    /* Body content styling */
-    .slide-body {
-      margin-top: 40px;
-      font-size: 1.2rem;
-    }
-    /* Button container styling */
-    .slide-buttons {
-      margin-top: 20px;
-    }
-    /* Image styling */
-    .slide-image {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      max-width: 150px;
-    }
-  iframe {
-  margin:auto;
-  display:block;
-  width: 100%;
-  height: 400px;
-  }
-  </style> -->
   <style>
     #newswall {
   display: flex;
@@ -82,11 +42,21 @@
   flex-shrink: 0; /* Prevent image from shrinking */
   margin-left: 20px; /* Space between text and image */
 }
-
+h2 {
+  border-bottom: 4px solid black;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 3rem;
+  background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
   </style>
 </head>
 <body>
-  <h1 class="p" style="text-align: center; border-bottom: solid black 4px;">Newswall</h1>
+  <h2 class="p">Newswall</h2>
   <div id="newswall" class="w3-panel w3-border w3-padding-large">
     <!-- Dynamic content will be injected here -->
   </div>
