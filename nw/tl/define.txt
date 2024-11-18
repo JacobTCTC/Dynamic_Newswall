@@ -1,0 +1,3 @@
+{ny} = Not Yet [No Display]
+{nd} = No Date Defined [Indefinite Display]
+00/00/00 == mm/dd/yy == Define MDY [Expire {hide} when after date]
