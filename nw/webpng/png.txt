@@ -2,7 +2,6 @@ me.png
 3.png
 important.png
 bus.png
-bus.png
 2.png
 4.png
 default.png
