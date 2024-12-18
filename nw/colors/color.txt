@@ -1,7 +1,8 @@
 blue
 red
 pale-yellow
-pale-yellow
+yellow
+yellow
 blue
 blue
 pale-blue
