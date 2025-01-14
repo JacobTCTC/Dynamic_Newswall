@@ -1,8 +1,6 @@
 Welcome to JacobTCTC's Home Page! I'm glad you have seen my progress as a website builder.
+JacobTCTC has discontinued this NewsWall in favor of other projects. JacobTCTC has future plans, but for now nothing's happening here.
 Off and Away is the Ohio Law! Your phones MUST be Off And Away at TCTC, excluding your lunchtime. Using your phone will get you in trouble.
-JacobTCTC Will try to place any Important Announcements from TCTC in this Newswall.
-Warren Students: There will be an early dismissal on Friday, December 20th at 12:00. Please wait for the announcement to be dismissed.
-Liberty Students: There will be an early dismissal on Friday, December 20th at 11:40. Please wait for the announcement to be dismissed.
 Want some tunes? I launched some radio stations for people to check out!
 For the HTML coders who want to code more than the regular student, here are some coding pieces in the Coder's Corner.
 All Open Source means that you could go to my GitHub right now and copy my site without a fuss!
